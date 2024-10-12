@@ -24,8 +24,8 @@ Navigate to the project directory:
 cd LiveConnect
 
 Install the necessary dependencies:
-npm install
+npm install, 
 Start the server:
-node server.js
-Usage
+node server.js,
+Usage:
 Open your web browser and go to http://localhost:3000 to start chatting.
